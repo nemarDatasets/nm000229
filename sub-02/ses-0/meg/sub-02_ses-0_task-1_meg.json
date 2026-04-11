@@ -1,0 +1,38 @@
+{
+  "TaskName": "1",
+  "Manufacturer": "KIT",
+  "PowerLineFrequency": "n/a",
+  "SamplingFrequency": 1000.0,
+  "SoftwareFilters": {
+    "SpatialCompensation": {
+      "GradientOrder": 0
+    }
+  },
+  "RecordingDuration": 740.999,
+  "RecordingType": "continuous",
+  "DewarPosition": "n/a",
+  "DigitizedLandmarks": true,
+  "DigitizedHeadPoints": false,
+  "MEGChannelCount": 208,
+  "MEGREFChannelCount": 16,
+  "ContinuousHeadLocalization": false,
+  "HeadCoilFrequency": [],
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 32,
+  "TriggerChannelCount": 0,
+  "ManufacturersModelName": "208-channel axial gradiometer (Kanazawa Institute of Technology)",
+  "SoftwareVersions": "n/a",
+  "DeviceSerialNumber": "n/a",
+  "CogPOID": "n/a",
+  "InstitutionName": "New York University Abu Dhabi",
+  "HardwareFilters": "n/a",
+  "ECOGChannelCount": 0,
+  "SEEGChannelCount": 0,
+  "SubjectArtefactDescription": "n/a",
+  "TaskDescription": "Listening to one of four short fictional stories from the Manually Annotated Sub-Corpus (MASC). The stories were 'LW1' (5 min 20 s), 'Cable Spool Boy' (11 min), 'Easy Money' (12 min 10 s), and 'The Black Willow' (25 min 50 s). Each participant listened to all four stories in a participant-specific order (Latin-square design); task-0..task-3 are session-relative indices, not fixed story labels. The story order for each subject is in participants.tsv (task_order column). Stories were synthesized with Mac OS Mojave text-to-speech and presented through binaural tube earphones at ~70 dB SPL, online band-pass 0.01-200 Hz.",
+  "Instructions": "Listen to the audiobooks attentively. Approximately every 3 minutes, respond to a two-alternative forced-choice comprehension question about the story content via button press.",
+  "InstitutionAddress": "Saadiyat Island, Abu Dhabi, United Arab Emirates"
+}

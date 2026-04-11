@@ -1,0 +1,257 @@
+﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+MEG 001	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 002	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 003	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 004	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 005	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 006	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 007	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 008	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 009	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 010	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 011	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 012	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 013	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 014	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 015	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 016	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 017	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 018	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 019	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 020	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 021	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 022	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 023	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 024	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 025	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 026	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 027	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 028	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 029	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 030	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 031	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 032	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 033	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 034	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 035	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 036	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 037	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 038	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 039	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 040	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 041	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 042	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 043	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 044	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 045	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 046	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 047	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 048	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 049	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 050	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 051	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 052	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 053	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 054	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 055	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 056	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 057	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 058	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 059	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 060	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 061	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 062	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 063	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 064	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 065	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 066	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 067	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 068	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 069	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 070	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 071	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 072	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 073	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 074	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 075	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 076	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 077	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 078	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 079	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 080	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 081	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 082	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 083	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 084	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 085	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 086	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 087	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 088	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 089	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 090	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 091	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 092	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 093	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 094	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 095	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 096	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 097	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 098	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 099	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 100	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 101	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 102	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 103	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 104	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 105	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 106	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 107	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 108	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 109	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 110	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 111	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 112	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 113	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 114	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 115	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 116	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 117	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 118	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 119	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 120	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 121	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 122	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 123	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 124	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 125	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 126	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 127	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 128	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 129	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 130	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 131	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 132	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 133	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 134	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 135	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 136	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 137	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 138	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 139	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 140	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 141	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 142	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 143	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 144	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 145	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 146	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 147	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 148	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 149	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 150	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 151	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 152	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 153	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 154	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 155	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 156	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 157	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 158	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 159	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 160	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 161	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 162	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 163	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 164	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 165	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 166	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 167	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 168	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 169	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 170	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 171	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 172	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 173	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 174	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 175	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 176	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 177	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 178	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 179	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 180	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 181	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 182	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 183	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 184	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 185	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 186	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 187	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 188	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 189	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 190	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 191	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 192	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 193	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 194	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 195	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 196	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 197	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 198	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 199	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 200	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 201	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 202	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 203	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 204	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 205	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 206	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 207	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 208	MEGGRADAXIAL	T	0.1	200.0	Axial Gradiometer	1000.0	good	n/a
+MEG 209	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 210	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 211	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 212	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 213	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 214	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 215	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 216	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 217	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 218	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 219	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 220	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 221	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 222	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 223	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MEG 224	MEGREFMAG	T	0.1	200.0	Magnetometer Reference	1000.0	good	n/a
+MISC 001	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 002	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 003	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 004	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 005	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 006	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 007	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 008	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 009	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 010	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 011	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 012	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 013	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 014	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 015	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 016	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 017	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 018	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 019	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 020	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 021	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 022	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 023	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 024	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 025	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 026	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 027	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 028	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 029	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 030	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 031	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a
+MISC 032	MISC	V	0.1	200.0	Miscellaneous	1000.0	good	n/a

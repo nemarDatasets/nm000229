@@ -1,0 +1,39 @@
+{
+  "Name": "MEG-MASC: a high-quality magneto-encephalography dataset for evaluating natural speech processing",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Laura Gwilliams",
+    "Graham Flick",
+    "Alec Marantz",
+    "Liina Pylkk\u00e4nen",
+    "David Poeppel",
+    "Jean-R\u00e9mi King"
+  ],
+  "HowToAcknowledge": "Please cite: Gwilliams, L., Flick, G., Marantz, A., Pylkk\u00e4nen, L., Poeppel, D., & King, J.-R. (2023). Introducing MEG-MASC: a high-quality MEG dataset of story comprehension. Scientific Data, 10, 862. https://doi.org/10.1038/s41597-023-02752-5",
+  "Funding": [
+    "FrontCog grant ANR-17-EURE-0017 (J.-R. King)",
+    "Abu Dhabi Research Institute (G1001) (A. Marantz, L. Pylkk\u00e4nen)",
+    "Dingwall Foundation (L. Gwilliams)"
+  ],
+  "ReferencesAndLinks": [
+    "https://osf.io/ag3kj/",
+    "https://doi.org/10.1038/s41597-023-02752-5",
+    "https://www.nature.com/articles/s41597-023-02752-5"
+  ],
+  "DatasetDOI": "doi:10.1038/s41597-023-02752-5",
+  "SourceDatasets": [
+    {
+      "URL": "https://osf.io/ag3kj/"
+    }
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "Original BIDS dataset",
+      "Description": "Dataset published as a BIDS-MEG release by the authors. Minor fixes applied during ingestion to satisfy BIDS validator: (1) repaired broken participants.json (syntax errors), (2) replaced 'male'/'female'/'right'/'left' in participants.tsv with M/F/R/L to match Levels, (3) removed orphan anat references from 6 scans.tsv files (MRI files not included in the OSF download), (4) added missing recommended sidecar fields verified against the paper.",
+      "CodeURL": "https://osf.io/ag3kj/"
+    }
+  ],
+  "HEDVersion": "8.2.0"
+}
