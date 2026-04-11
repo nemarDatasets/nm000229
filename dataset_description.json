@@ -1,5 +1,5 @@
 {
-  "Name": "Gwilliams et al. 2023 — MEG-MASC natural speech MEG dataset",
+  "Name": "Gwilliams et al. 2023 — Introducing MEG-MASC: a high-quality magneto-encephalography dataset for evaluating natural speech processing",
   "BIDSVersion": "1.9.0",
   "DatasetType": "raw",
   "License": "CC0",
