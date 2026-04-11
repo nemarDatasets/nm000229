@@ -1,5 +1,5 @@
 {
-  "Name": "MEG-MASC: a high-quality magneto-encephalography dataset for evaluating natural speech processing",
+  "Name": "Gwilliams et al. 2023 — MEG-MASC natural speech MEG dataset",
   "BIDSVersion": "1.9.0",
   "DatasetType": "raw",
   "License": "CC0",
@@ -7,14 +7,14 @@
     "Laura Gwilliams",
     "Graham Flick",
     "Alec Marantz",
-    "Liina Pylkk\u00e4nen",
+    "Liina Pylkkänen",
     "David Poeppel",
-    "Jean-R\u00e9mi King"
+    "Jean-Rémi King"
   ],
-  "HowToAcknowledge": "Please cite: Gwilliams, L., Flick, G., Marantz, A., Pylkk\u00e4nen, L., Poeppel, D., & King, J.-R. (2023). Introducing MEG-MASC: a high-quality MEG dataset of story comprehension. Scientific Data, 10, 862. https://doi.org/10.1038/s41597-023-02752-5",
+  "HowToAcknowledge": "Please cite: Gwilliams, L., Flick, G., Marantz, A., Pylkkänen, L., Poeppel, D., & King, J.-R. (2023). Introducing MEG-MASC: a high-quality MEG dataset of story comprehension. Scientific Data, 10, 862. https://doi.org/10.1038/s41597-023-02752-5",
   "Funding": [
     "FrontCog grant ANR-17-EURE-0017 (J.-R. King)",
-    "Abu Dhabi Research Institute (G1001) (A. Marantz, L. Pylkk\u00e4nen)",
+    "Abu Dhabi Research Institute (G1001) (A. Marantz, L. Pylkkänen)",
     "Dingwall Foundation (L. Gwilliams)"
   ],
   "ReferencesAndLinks": [
