@@ -1,0 +1,26 @@
+{
+    "TaskName": "0",
+    "Manufacturer": "KIT/Yokogawa",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 1000.0,
+    "SoftwareFilters": {
+        "SpatialCompensation": {
+            "GradientOrder": 0
+        }
+    },
+    "RecordingDuration": 394.999,
+    "RecordingType": "continuous",
+    "DewarPosition": "n/a",
+    "DigitizedLandmarks": true,
+    "DigitizedHeadPoints": false,
+    "MEGChannelCount": 208,
+    "MEGREFChannelCount": 16,
+    "ContinuousHeadLocalization": false,
+    "HeadCoilFrequency": [],
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 32,
+    "TriggerChannelCount": 0
+}
