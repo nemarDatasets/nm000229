@@ -22,10 +22,13 @@
     "https://doi.org/10.1038/s41597-023-02752-5",
     "https://www.nature.com/articles/s41597-023-02752-5"
   ],
-  "DatasetDOI": "doi:10.1038/s41597-023-02752-5",
+  "DatasetDOI": "10.82901/nemar.nm000229",
   "SourceDatasets": [
     {
       "URL": "https://osf.io/ag3kj/"
+    },
+    {
+      "DOI": "doi:10.1038/s41597-023-02752-5"
     }
   ],
   "GeneratedBy": [
