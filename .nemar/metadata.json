@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Gwilliams et al. 2023 — Introducing MEG-MASC: a high-quality magneto-encephalography dataset for evaluating natural speech processing",
+  "description": "MEG-MASC provides raw magnetoencephalography recordings from 27 English speakers who listened to about two hours of naturalistic stories from the Manually Annotated Sub-Corpus (MASC), interspersed with random word lists and comprehension questions. Each participant completed two sessions, and word and phoneme onsets and offsets are time-stamped in the event metadata. The dataset is organized in BIDS and serves as a benchmark for large-scale encoding and decoding analyses of temporally resolved brain responses to speech.",
+  "methods_description": "Participants listened to four synthesized fictional stories over two ~1h MEG sessions, with story order varying across participants. Speech was synthesized with macOS text-to-speech using three female voices and varied speech rates, and split into ~3 min audio files. Word and phoneme timings were derived by forced alignment with the gentle aligner.",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Laura Gwilliams": {
       "orcid": "0000-0002-9213-588X"
@@ -13,6 +18,28 @@
     },
     "Jean-Rémi King": {}
   },
+  "keywords": [
+    {
+      "term": "Magnetoencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D015225"
+    },
+    {
+      "term": "MEG"
+    },
+    {
+      "term": "speech comprehension"
+    },
+    {
+      "term": "naturalistic stimuli"
+    },
+    {
+      "term": "story listening"
+    },
+    {
+      "term": "phoneme decoding"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.1038/s41597-023-02752-5",
@@ -25,9 +52,19 @@
       "relation_type": "IsDescribedBy"
     },
     {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000229",
+      "identifier": "https://nemar.org/dataset/nm000229",
       "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/sdata.2018.110",
+      "identifier_type": "DOI",
+      "relation_type": "References"
     }
   ],
   "funding_references": [
@@ -35,7 +72,7 @@
       "funder_name": "Dingwall Foundation (L. Gwilliams)"
     },
     {
-      "funder_name": "Agence Nationale de la Recherche",
+      "funder_name": "FrontCog",
       "award_number": "ANR-17-EURE-0017"
     },
     {
@@ -46,17 +83,14 @@
       "funder_name": "Dingwall Foundation"
     }
   ],
-  "title": "Gwilliams et al. 2023 — Introducing MEG-MASC: a high-quality magneto-encephalography dataset for evaluating natural speech processing",
-  "license": "CC0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "MEG Dataset",
   "modalities": [
     "meg",
     "anat"
   ],
-  "resource_type_specific": "MEG Dataset",
   "sizes": [
-    "106.6 GB (471 files)"
+    "99.31 GB (471 files)"
   ],
   "formats": [
     ".con",
@@ -71,33 +105,6 @@
     ".txt",
     ".wav",
     ".yml"
-  ],
-  "description": "MEG-MASC is a high-quality magnetoencephalography dataset comprising raw MEG recordings from 27 English speakers listening to approximately two hours of naturalistic stories from the Manually Annotated Sub-Corpus (MASC). The dataset includes precise temporal annotations of word and phoneme onsets/offsets, organized according to the Brain Imaging Data Structure (BIDS) standard. This benchmark dataset enables large-scale encoding and decoding analyses of neural responses to natural speech processing, with accompanying code for validation analyses including temporal decoding of phonetic features and word frequency effects.",
-  "methods_description": "Participants listened to four fictional stories presented across two ~1-hour MEG sessions (5 subjects completed 1 session). Stories were synthesized using Mac OS Mojave text-to-speech with varying female voices (n=3) and speech rates (145-205 words per minute). Word and phoneme timing were inferred using forced-alignment between audio and text files via the 'gentle aligner' from the lowerquality Python module. Each recording session included story presentations intermixed with random word lists and comprehension questions.",
-  "keywords": [
-    {
-      "term": "Magnetoencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D015225"
-    },
-    {
-      "term": "MEG"
-    },
-    {
-      "term": "speech processing"
-    },
-    {
-      "term": "natural language"
-    },
-    {
-      "term": "phonetic decoding"
-    },
-    {
-      "term": "brain imaging"
-    },
-    {
-      "term": "BIDS"
-    }
   ],
   "source_hash": "4e3dd4d9f8b82325c63b2ea56fc2ccf71a6b2eb60ff403e0df357a3071a75245"
 }
