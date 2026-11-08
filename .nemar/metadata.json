@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Gwilliams et al. 2023 — Introducing MEG-MASC: a high-quality magneto-encephalography dataset for evaluating natural speech processing",
-  "description": "MEG-MASC provides raw magnetoencephalography recordings from 27 English speakers who listened to about two hours of naturalistic stories from the Manually Annotated Sub-Corpus (MASC), interspersed with random word lists and comprehension questions. Each participant completed two sessions, and word and phoneme onsets and offsets are time-stamped in the event metadata. The dataset is organized in BIDS and serves as a benchmark for large-scale encoding and decoding analyses of temporally resolved brain responses to speech.",
-  "methods_description": "Participants listened to four synthesized fictional stories over two ~1h MEG sessions, with story order varying across participants. Speech was synthesized with macOS text-to-speech using three female voices and varied speech rates, and split into ~3 min audio files. Word and phoneme timings were derived by forced alignment with the gentle aligner.",
+  "description": "MEG-MASC provides raw magnetoencephalography recordings from 27 English speakers who listened to about two hours of naturalistic synthesized stories across two sessions. The stories come from the Manually Annotated Sub-Corpus (MASC) and are intermixed with random word lists and comprehension questions. Word and phoneme onsets and offsets are time-stamped in the BIDS events files. The dataset is a benchmark for large-scale encoding and decoding analyses of temporally resolved brain responses to speech.",
+  "methods_description": "Participants completed two ~1h MEG sessions, listening to four fictional stories in a participant-specific order (five participants completed one session only). Audio was synthesized with macOS text-to-speech using three female voices, speech rates of 145-205 words per minute, and random inter-sentence intervals of 0-1000 ms. Word and phoneme timings were derived by forced alignment with the Gentle aligner and stored in the events files.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -31,13 +31,13 @@
       "term": "speech comprehension"
     },
     {
-      "term": "naturalistic stimuli"
-    },
-    {
-      "term": "story listening"
+      "term": "naturalistic stories"
     },
     {
       "term": "phoneme decoding"
+    },
+    {
+      "term": "language"
     }
   ],
   "related_identifiers": [
@@ -106,5 +106,5 @@
     ".wav",
     ".yml"
   ],
-  "source_hash": "4e3dd4d9f8b82325c63b2ea56fc2ccf71a6b2eb60ff403e0df357a3071a75245"
+  "source_hash": "b7b1952fd5bfdee14a9435bf7b2742a107a25fc579be0389f65383cf4120a780"
 }
