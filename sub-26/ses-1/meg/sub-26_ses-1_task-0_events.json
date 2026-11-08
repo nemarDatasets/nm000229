@@ -1,0 +1,82 @@
+{
+  "onset": {
+    "Description": "Event onset in seconds",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Event duration in seconds",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "Type of event (short BIDS label)",
+    "Levels": {
+      "sound": "Start of a sound stimulus",
+      "phoneme": "Onset of a phoneme",
+      "word": "Onset of a word"
+    }
+  },
+  "value": {
+    "Description": "Numerical event code"
+  },
+  "sample": {
+    "Description": "Sample index of event onset (0-based)"
+  },
+  "story": {
+    "Description": "Story identifier (lw1, cable_spool_fort, easy_money, The_Black_Willow)"
+  },
+  "story_uid": {
+    "Description": "Numeric story UID within the session"
+  },
+  "sound_id": {
+    "Description": "Index of the 3-minute audio chunk within the story"
+  },
+  "kind": {
+    "Description": "Type of linguistic unit",
+    "Levels": {
+      "sound": "Start of sound file",
+      "phoneme": "Phoneme onset",
+      "word": "Word onset"
+    }
+  },
+  "start": {
+    "Description": "Time within the sound file at which the event begins",
+    "Units": "s"
+  },
+  "sound": {
+    "Description": "Relative path to the stimulus audio file"
+  },
+  "phoneme": {
+    "Description": "Phoneme label with position suffix (_B beginning, _I internal, _E end)"
+  },
+  "word": {
+    "Description": "Orthographic form of the word"
+  },
+  "sequence_id": {
+    "Description": "Sentence/sequence index within the story"
+  },
+  "condition": {
+    "Description": "Linguistic context",
+    "Levels": {
+      "sentence": "Word appeared inside a story sentence",
+      "word_list": "Word appeared inside a random word list"
+    }
+  },
+  "word_index": {
+    "Description": "Position of the word within its sentence/sequence (0-based)"
+  },
+  "speech_rate": {
+    "Description": "Speech rate of the synthesized audio",
+    "Units": "words_per_minute"
+  },
+  "voice": {
+    "Description": "Mac OS Mojave TTS voice used to synthesize audio",
+    "Levels": {
+      "Ava": "Ava",
+      "Samantha": "Samantha",
+      "Allison": "Allison"
+    }
+  },
+  "pronounced": {
+    "Description": "Whether the word/phoneme was pronounced (1) or silent/non-word (0)"
+  }
+}

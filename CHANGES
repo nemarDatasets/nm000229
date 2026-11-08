@@ -1,0 +1,16 @@
+1.0.2 2026-11-08
+  - sub-12 to sub-27 (112 events.tsv): the trial_type dictionary is expanded into the same 19 columns, in the same order,
+    as sub-01 to sub-11 (trial_type = kind; dictionary keys as columns; n/a where a key is absent; whole-number values
+    written as integers; CRLF line endings, no UTF-8 byte-order mark). In 1.0.1 these files were the OSF originals
+    (dictionary string in trial_type, byte-order mark) because code/flatten_events.py had been run on sub-01 to sub-11
+    only. Row count, row order, onset, duration, value and sample are unchanged; every column equals the original
+    dictionary value. The conversion script is code/expand_events.py.
+  - sub-12 to sub-27: added the 112 matching events.json sidecars (identical to those of sub-01 to sub-11).
+  - sub-01 to sub-11: unchanged. Their 'start' column keeps the 6-significant-digit formatting of
+    code/flatten_events.py (146,622 cells differ from the OSF value by at most 1e-6 s); sub-12 to sub-27 keep the exact
+    OSF value.
+  - README.md: note on the expanded events.tsv columns.
+  - dataset_description.json: Version 1.0.1 -> 1.0.2.
+
+1.0.1 2026-04-11
+  - dataset_description.json: Version field added and Name set to the paper title (nemarDatasets/nm000229#1).
