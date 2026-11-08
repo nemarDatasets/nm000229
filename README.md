@@ -72,6 +72,11 @@ Each events file contains five columns:
   - trial_type (dict) : dictionary of key:value pairs providing information about the event
   - sample (int) : onset time of event in MEG samples
 
+Note (NEMAR copy, version 1.0.2): in this dataset the trial_type dictionary of every events.tsv is expanded into
+separate columns (story, story_uid, sound_id, kind, start, sound, phoneme, word, sequence_id, condition, word_index,
+speech_rate, voice, pronounced; n/a where a key is absent), and trial_type holds the event kind (sound, phoneme or
+word). The columns are described in the events.json sidecars. See CHANGES.
+
 ## Stories.
 
 Each participant listened to four fictional stories, over the course of two ~1h-long MEG sessions, with the exception of 5 subjects who only underwent 1 session. The stories were played in different orders across participants. These stories were originally selected because they had been annotated for their syntactic structures (MASC).  The corresponding text files can be found in stimuli/text/*.txt
